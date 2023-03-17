@@ -1,5 +1,5 @@
 
-
+![logo] (https://media1.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif?cid=ecf05e47s0am5yt7m1yex86edrht8xerlvjvzvk4kw01g5na&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Lalit Gupta</h1>
 <h3 align="center">Hello, I am Lalit Gupta, the Director of MetaBlock Technologies. Our company is committed to providing the best training and development services for both web development and blockchain development. We believe that anyone can succeed in these rapidly growing fields with the right training, and our goal is to make our courses accessible to all.</h3>
 <img align=“right” alt=“coding” width = “400” src = “ https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
