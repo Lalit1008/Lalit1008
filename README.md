@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Lalit Gupta</h1>
-<h3 align="center">Hello, I am Lalit Gupta, the Director of MetaBlock Technologies. Our company is committed to providing the best training and development services for both web development and blockchain development. We believe that anyone can succeed in these rapidly growing fields with the right training, and our goal is to make our courses accessible to all.</h3>
+<h3 align="center">Hello, Lalit Gupta, the Director of MetaBlock Technologies. Our company is committed to providing the best training and development services for both web development and blockchain development. We believe that anyone can succeed in these rapidly growing fields with the right training, and our goal is to make our courses accessible to all.</h3>
 <img align=“right” alt=“coding” width = “400” src = “ https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalit1008&label=Profile%20views&color=0e75b6&style=flat" alt="lalit1008" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN and BLockchain Development**
 
-- 📫 How to reach me **lnd.108.hkc@gmail.com**
+- 📫 How to reach me **+91 8058465484**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
